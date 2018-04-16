@@ -1,0 +1,7 @@
+resteasy:
+  jaxrs:
+    app:
+      registration: property
+      classes: in.shishirsingh.phi.configurations.RestEasyConfig
+server:
+  port: 9191
